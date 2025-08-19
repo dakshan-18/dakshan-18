@@ -19,17 +19,6 @@
 
 ---
 
-## 🔹 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshan-18&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=dakshan-18&theme=radical" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshan-18&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🔹 Featured Projects
 🌟 **[VEC Web Engine](https://github.com/Web-Developer-VEC/VEC_Web_Engine)**  
 > 🚀 A web engine project built for college platform, using **JavaScript**.  
