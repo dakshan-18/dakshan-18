@@ -5,9 +5,9 @@
 ---
 
 ## 🔹 About Me
-- 🎓 Student at Velammal NewGen Edu Network  
+- 🎓 Student at Velammal Engineering College
 - 💡 Interested in **Web Development, Frontend & Backend, Open Source**  
-- ⚡ Currently exploring **React, Node.js, and modern web technologies**  
+- ⚡ Currently exploring **React, TypeScript, and modern web technologies**  
 - 🌟 Goal: To contribute to impactful **open-source projects** and grow as a developer  
 
 ---
@@ -30,7 +30,7 @@
 ## 🔹 Connect With Me
 <p align="center">
   <a href="mailto:dakshan195@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/dakshan-b-1b9401329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dakshan195"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/dakshan-18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
