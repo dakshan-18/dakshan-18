@@ -6,7 +6,7 @@
 
 ## 🔹 About Me
 - 🎓 Student at Velammal Engineering College
-- 💡 Interested in **Web Development, Frontend & Backend, Open Source**  
+- 💡 Interested in **Web Development, Frontend Engineer, Open Source**  
 - ⚡ Currently exploring **React, TypeScript, and modern web technologies**  
 - 🌟 Goal: To contribute to impactful **open-source projects** and grow as a developer  
 
